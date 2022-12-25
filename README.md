@@ -1,4 +1,4 @@
-WebAlfa IRNIC Registrar WHMCS Module
+WebAlfa IRNIC SubReseller Registrar WHMCS Module
 =====================================
 WHMCS registrar module for IR domains operations.
 
